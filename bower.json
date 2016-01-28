@@ -1,0 +1,19 @@
+{
+  "name": "candy_crush",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Aaqib Parvez"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/aaqib29292/candy_crush",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
